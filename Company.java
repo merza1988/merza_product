@@ -1,5 +1,10 @@
 public Company()
 {
 	private products TreeSet = new arrayList();
-	private Product
+	private String name= "IBM";
+	public Company()
+	{
+		setName("IBM");
+	}
+
 }

@@ -1,14 +1,11 @@
 public class Product
 {
    private String name;
-	private boolean onStock = true;
+   private boolean onStock = true;
    public Product()
    {
-
      setName("Coca Cola");
-    
     }
-
     public String getName()
     {
        return name;
@@ -18,7 +15,4 @@ public class Product
     {
        this.name = name;
     }
-    
-
-
 }
