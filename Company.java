@@ -1,6 +1,6 @@
-public Company()
+public class Company()
 {
-	private products arraylist = new arrayList();
+	private  arrayList<>() products;
 	private String name;
 	
 	public Company()
