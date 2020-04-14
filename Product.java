@@ -1,7 +1,7 @@
 public class Product
 {
    private String name;
-
+	private boolean onStock = true;
    public Product()
    {
 

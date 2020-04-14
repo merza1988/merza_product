@@ -1,4 +1,5 @@
 public Company()
 {
-	private products arraylist = new arrayList();
+	private products TreeSet = new arrayList();
+	private Product
 }
