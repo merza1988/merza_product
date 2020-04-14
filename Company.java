@@ -7,4 +7,5 @@ public class Company()
 	{
 		setName("IBM");
 	}
+
 }

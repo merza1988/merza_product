@@ -3,16 +3,15 @@ public class Product
    private String name;
    private float price;
    private int id;
-
+   private boolean onStock = true;
+   
    public Product()
    {
-
      setName("Coca Cola");
 	 setPrice(10);
 	 setId(id);
     
-    }
-
+   }
     public String getName()
     {
        return name;
@@ -43,6 +42,4 @@ public class Product
        this.id = id;
     }
     
-
-
 }
